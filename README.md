@@ -12,4 +12,3 @@ interface ContainerInterface extends LocatorInterface, DefinitionAwareInterface,
 }
 ```
 
-bip
